@@ -14,8 +14,8 @@
   <ElectionFail_NoDemocracy>Выборов не будет, потому что в этой колонии нет демократии.</ElectionFail_NoDemocracy>
   <ElectionFail_Disaster>Выборы лидера отменены! Случилось что-то плохое.</ElectionFail_Disaster>
 
-  <BallotDescription>Выборы состоятся в дни: 1, 7 и 15.\nОни произойдут, если будут необходимы.\nПоследние выборы: </BallotDescription>
-  <BallotDescriptionDisabled>Выборы не состоятся в дни: 1, 7 и 15.\nОни произойдут, если будут необходимы.\nПоследние выборы: </BallotDescriptionDisabled>
+  <BallotDescription>\nВыборы состоятся в дни: 1, 7 и 15.\nОни произойдут, если будут необходимы.\nПоследние выборы: </BallotDescription>
+  <BallotDescriptionDisabled>\nВыборы не состоятся в дни: 1, 7 и 15.\nОни произойдут, если будут необходимы.\nПоследние выборы: </BallotDescriptionDisabled>
 
   <EnableElections>Включить выборы</EnableElections>
   <EnableElectionsDesc>Если выключено, то выборы не состоятся.</EnableElectionsDesc>
