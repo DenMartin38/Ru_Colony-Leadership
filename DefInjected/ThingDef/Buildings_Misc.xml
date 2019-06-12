@@ -3,31 +3,31 @@
 
   <!-- Spots -->
 
-  <TeachingSpot.label>Teacher Table</TeachingSpot.label>
-  <TeachingSpot.description>Designates a spot where lessons will be held.</TeachingSpot.description>
-  <TeachingSpot_Blueprint.label>Teacher Table (blueprint)</TeachingSpot_Blueprint.label>
-  <TeachingSpot_Frame.label>Teacher Table (building)</TeachingSpot_Frame.label>
-  <TeachingSpot_Frame.description>Designates a spot where lessons will be held.</TeachingSpot_Frame.description>
+  <TeachingSpot.label>Стол учителя</TeachingSpot.label>
+  <TeachingSpot.description>Обозначает место, где будут проводиться уроки.</TeachingSpot.description>
+  <TeachingSpot_Blueprint.label>Стол учителя (чертёж)</TeachingSpot_Blueprint.label>
+  <TeachingSpot_Frame.label>Стол учителя (строительство)</TeachingSpot_Frame.label>
+  <TeachingSpot_Frame.description>Обозначает место, где будут проводиться уроки.</TeachingSpot_Frame.description>
 
-  <GlobeCL.label>RimWorld Globe</GlobeCL.label>
-  <GlobeCL.description>Putting this globe on a classroom will improve the effectiveness of teaching.</GlobeCL.description>
-  <GlobeCL_Blueprint.label>RimWorld Globe (blueprint)</GlobeCL_Blueprint.label>
-  <GlobeCL_Blueprint_Install.label>RimWorld Globe (blueprint)</GlobeCL_Blueprint_Install.label>
-  <GlobeCL_Frame.label>RimWorld Globe (building)</GlobeCL_Frame.label>
-  <GlobeCL_Frame.description>Putting this globe on a classroom will improve the effectiveness of teaching.</GlobeCL_Frame.description>
+  <GlobeCL.label>Глобус RimWorld</GlobeCL.label>
+  <GlobeCL.description>Размещение этого шара в классе повысит эффективность обучения.</GlobeCL.description>
+  <GlobeCL_Blueprint.label>Глобус RimWorld (чертёж)</GlobeCL_Blueprint.label>
+  <GlobeCL_Blueprint_Install.label>Глобус RimWorld (чертёж)</GlobeCL_Blueprint_Install.label>
+  <GlobeCL_Frame.label>Глобус RimWorld (строительство)</GlobeCL_Frame.label>
+  <GlobeCL_Frame.description>Размещение этого шара в классе повысит эффективность обучения.</GlobeCL_Frame.description>
 
-  <ChalkboardCL.label>Chalkboard</ChalkboardCL.label>
-  <ChalkboardCL.description>Putting this chalkboard on a classroom will improve the effectiveness of teaching.</ChalkboardCL.description>
-  <ChalkboardCL_Blueprint.label>Chalkboard (blueprint)</ChalkboardCL_Blueprint.label>
-  <ChalkboardCL_Blueprint_Install.label>Chalkboard (blueprint)</ChalkboardCL_Blueprint_Install.label>
-  <ChalkboardCL_Frame.label>Chalkboard (building)</ChalkboardCL_Frame.label>
-  <ChalkboardCL_Frame.description>Putting this chalkboard on a classroom will improve the effectiveness of teaching.</ChalkboardCL_Frame.description>
+  <ChalkboardCL.label>Классная доска</ChalkboardCL.label>
+  <ChalkboardCL.description>Размещение этой классной доски на уроке повысит эффективность обучения.</ChalkboardCL.description>
+  <ChalkboardCL_Blueprint.label>Классная доска (чертёж)</ChalkboardCL_Blueprint.label>
+  <ChalkboardCL_Blueprint_Install.label>Классная доска (чертёж)</ChalkboardCL_Blueprint_Install.label>
+  <ChalkboardCL_Frame.label>Классная доска (строительство)</ChalkboardCL_Frame.label>
+  <ChalkboardCL_Frame.description>Размещение этой классной доски на уроке повысит эффективность обучения.</ChalkboardCL_Frame.description>
 
-  <BallotBox.label>Ballot Box</BallotBox.label>
-  <BallotBox.description>Elections will take place around this box. Build it on a safe, preferably indoor spot.</BallotBox.description>
-  <BallotBox_Blueprint.label>Ballot Box (blueprint)</BallotBox_Blueprint.label>
-  <BallotBox_Frame.label>Ballot Box (building)</BallotBox_Frame.label>
-  <BallotBox_Frame.description>Elections will take place around this box. Build it on a safe, preferably indoor spot.</BallotBox_Frame.description>
+  <BallotBox.label>Избирательная урна</BallotBox.label>
+  <BallotBox.description>Выборы будут проходить вокруг этой урны. Постройте её в безопасном месте, предпочтительно в помещении.</BallotBox.description>
+  <BallotBox_Blueprint.label>Избирательная урна (чертёж)</BallotBox_Blueprint.label>
+  <BallotBox_Frame.label>Избирательная урна (строительство)</BallotBox_Frame.label>
+  <BallotBox_Frame.description>Выборы будут проходить вокруг этой урны. Постройте её в безопасном месте, предпочтительно в помещении.</BallotBox_Frame.description>
 
 
 </LanguageData>

@@ -3,7 +3,7 @@
 
   <!-- Random social interactions -->
 
-  <InspirationalTalk.label>Inspirational Talk</InspirationalTalk.label>
+  <InspirationalTalk.label>Вдохновенный разговор</InspirationalTalk.label>
   <InspirationalTalk.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] inspired [RECIPIENT_nameDef].</InspirationalTalk.logRulesInitiator.rulesStrings.0>
   <InspirationalTalk.logRulesRecipient.rulesStrings.0>r_logentry->Was inspired by [INITIATOR_nameDef].</InspirationalTalk.logRulesRecipient.rulesStrings.0>
 
